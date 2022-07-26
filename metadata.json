@@ -1,0 +1,28 @@
+{
+  "name": "Monkai #38",
+  "symbol": "KAI",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 200,
+  "image": "https://nftstorage.link/ipfs/bafybeibtw5srclqffo2kp23qxmo4ejklfj3zjwit2jrhg5sr4suvaapyzu",
+  "attributes": [
+   {
+      "trait_type": "Genotype",
+      "value": "Black fox"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
